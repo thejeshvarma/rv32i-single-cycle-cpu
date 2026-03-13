@@ -176,4 +176,8 @@ Rajiv Gandhi University of Knowledge Technologies
 
 ## License
 
+<<<<<<< HEAD
 This project is licensed under the [MIT License](LICENSE).
+=======
+This project is licensed under the [MIT License](LICENSE).
+>>>>>>> d0742d6c3aa5acd6a54086d22ce93f84eada4bb5
